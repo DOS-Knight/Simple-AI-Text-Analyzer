@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">Smart Text Analyzer</string>
+
+    <string name="analyze">تحلیل متن</string>
+
+    <string name="input_hint">
+        متن خود را وارد کنید...
+    </string>
+
+    <string name="emotion_result">
+        احساس متن
+    </string>
+
+    <string name="topic_result">
+        موضوع متن
+    </string>
+
+    <string name="keyword_result">
+        کلمات کلیدی
+    </string>
+
+    <string name="summary_result">
+        خلاصه متن
+    </string>
+    <string name="hyperlink"><a href="https://github.com/DOS-Knight">Created by 2AR - Github DOS-Knight</a></string>
+</resources>
