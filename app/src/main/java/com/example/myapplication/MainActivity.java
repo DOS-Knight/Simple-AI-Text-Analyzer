@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
         builder.setOnClickListener(v -> {
             Intent intent = new Intent(
                     Intent.ACTION_VIEW,
-                    android.net.Uri.parse("https://github.com/DOS-Knight")
+                    android.net.Uri.parse("https://github.com/DOS-Knight/Simple-AI-Text-Analyzer")
             );
             startActivity(intent);
         });
