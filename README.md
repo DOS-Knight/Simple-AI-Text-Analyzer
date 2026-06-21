@@ -245,6 +245,5 @@ If you find this project useful, consider starring the repository.
 
 ## 📄 License
 
-This project is released for educational and learning purposes.
-
-You are free to use, modify, and expand upon the project with appropriate attribution.
+Licensed under the MIT License.
+See LICENSE for more information.
