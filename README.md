@@ -148,27 +148,27 @@ MainActivity
 ### Home Screen
 
 <p align="left">
-  <img src="screenshots/home.png" width="250" />
+  <img src="screenshots/home.png" width="200" />
 </p>
 
 ### Analysis Results
 
 <p align="left">
-  <img src="screenshots/result.png" width="250" />
+  <img src="screenshots/result.png" width="200" />
+</p>
+
+### Dark Theme Screen
+
+<p align="left">
+  <img src="screenshots/dark-theme.png" width="200" />
 </p>
 
 ### History Screen
 
 <p align="left">
-  <img src="screenshots/history.png" width="250" />
+  <img src="screenshots/history.png" width="200" />
 </p>
-![History]()
 
-### Dark Theme Screen
-
-<p align="left">
-  <img src="screenshots/dark-theme.png" width="250" />
-</p>
 
 ---
 
