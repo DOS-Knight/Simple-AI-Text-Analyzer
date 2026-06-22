@@ -125,7 +125,7 @@ public class MainActivity extends AppCompatActivity {
             }
         }
 
-        PieDataSet dataSet = new PieDataSet(entries, "");
+        PieDataSet dataSet = new PieDataSet(entries, ""); 
 
         ArrayList<Integer> colors = new ArrayList<>();
         colors.add(Color.parseColor("#4CAF50")); // خوشحال
